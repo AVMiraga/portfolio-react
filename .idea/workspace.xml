@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf7a5b8d-a7e2-4b40-a826-ffcf7d90f5ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/open-next.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wrangler.jsonc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/resume.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1767777548013</updated>
       <workItem from="1767777549291" duration="8988000" />
-      <workItem from="1767793607125" duration="153000" />
+      <workItem from="1767793607125" duration="305000" />
+      <workItem from="1767794115275" duration="9000" />
     </task>
     <servers />
   </component>
