@@ -72,6 +72,22 @@ export const DATA = {
     },
   ],
   education: [
+      {
+          school: "Baku State University",
+          href: "https://bdu.info.az",
+          degree: "Master of Computer Systems and Networking",
+          logoUrl: "/bdu.jpeg",
+          start: "2025",
+          end: "2027",
+      },
+      {
+          school: "Code Academy",
+          href: "https://code.edu.az",
+          degree: "Backend based Software Development on C# and .NET",
+          logoUrl: "/code.webp",
+          start: "2023",
+          end: "2024",
+      },
     {
       school: "Baku State University",
       href: "https://bdu.info.az",
@@ -80,26 +96,10 @@ export const DATA = {
       start: "2021",
       end: "2025",
     },
-    {
-      school: "Code Academy",
-      href: "https://code.edu.az",
-      degree: "Backend based Software Development on C# and .NET",
-      logoUrl: "/code.webp",
-      start: "2023",
-      end: "2024",
-    },
-    {
-      school: "Baku State University",
-      href: "https://bdu.info.az",
-      degree: "Master of Computer Systems and Networking",
-      logoUrl: "/bdu.jpeg",
-      start: "2025",
-      end: "2027",
-    },
   ],
   projects: [
     {
-      title: "Graduate Management System",
+      title: "Graduation invitation system",
         href: "https://digitalgenc.az",
       dates: "Mar 2025 - Jul 2025",
       active: true,
@@ -169,7 +169,7 @@ export const DATA = {
         video: "",
     },
     {
-      title: "Library App",
+      title: "3D Library App",
         href: "https://digitalgenc.az",
       dates: "May 2025 - May 2025",
       active: true,
@@ -186,17 +186,12 @@ export const DATA = {
           "Fuzzy Logic",
       ],
       links: [
-        {
-          type: "Source",
-          href: "https://github.com/AVMiraga/library",
-          icon: <Icons.github className="size-3" />,
-        },
       ],
       image: "/library.png",
         video: "",
     },
       {
-          title: "Humanitarian and youth policy system",
+          title: "Management System for the Department of Humanitarian Affairs and Youth Policy\n",
           href: "https://digitalgenc.az",
           dates: "Sep 2025 - Dec 2025",
           active: true,
@@ -209,11 +204,6 @@ export const DATA = {
               "Shadcn UI", "API", ".NET", "CI/CD",
           ],
           links: [
-              {
-                  type: "Source",
-                  href: "https://github.com/AVMiraga/hr-system",
-                  icon: <Icons.github className="size-3" />,
-              },
           ],
           image: "/hr-system.png",
           video: "",
@@ -232,11 +222,6 @@ export const DATA = {
               "Shadcn UI", "API", ".NET", "CI/CD",
           ],
           links: [
-              {
-                  type: "Source",
-                  href: "https://github.com/AVMiraga/codemy",
-                  icon: <Icons.github className="size-3" />,
-              },
           ],
           image: "/codemy.png",
           video: "",
@@ -271,7 +256,7 @@ export const DATA = {
               {
                   title: "Source",
                   icon: <Icons.github className="h-4 w-4" />,
-                  href: "https://github.com/AVMiraga/pashahackathon",
+                  href: "https://github.com/AVMiraga/hackathon24",
               },
           ],
       },
