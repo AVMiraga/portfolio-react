@@ -100,6 +100,7 @@ export const DATA = {
   projects: [
     {
       title: "Graduate Management System",
+        href: "https://digitalgenc.az",
       dates: "Mar 2025 - Jul 2025",
       active: true,
       description:
@@ -113,7 +114,11 @@ export const DATA = {
         "API",
         "CI/CD",
       ],
+        links: [
+
+        ],
       image: "/mezun.png",
+        video: "",
     },
     {
       title: "DigitalGenc.az",
@@ -136,9 +141,11 @@ export const DATA = {
         },
       ],
       image: "/digitalgenc.png",
+        video: "",
     },
     {
       title: "Rust Shell (rsh)",
+        href: "https://digitalgenc.az",
       dates: "Dec 2025 - Present",
       active: true,
       description:
@@ -159,9 +166,11 @@ export const DATA = {
         },
       ],
       image: "/rsh.png",
+        video: "",
     },
     {
       title: "Library App",
+        href: "https://digitalgenc.az",
       dates: "May 2025 - May 2025",
       active: true,
       description:
@@ -184,9 +193,11 @@ export const DATA = {
         },
       ],
       image: "/library.png",
+        video: "",
     },
       {
           title: "Humanitarian and youth policy system",
+          href: "https://digitalgenc.az",
           dates: "Sep 2025 - Dec 2025",
           active: true,
           description:
@@ -205,9 +216,11 @@ export const DATA = {
               },
           ],
           image: "/hr-system.png",
+          video: "",
       },
       {
           title: "Codemy",
+          href: "https://digitalgenc.az",
           dates: "Jan 2025 - Apr 2025",
           active: true,
           description:
@@ -226,6 +239,7 @@ export const DATA = {
               },
           ],
           image: "/codemy.png",
+          video: "",
       },
   ],
   hackathons: [
