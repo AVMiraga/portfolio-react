@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf7a5b8d-a7e2-4b40-a826-ffcf7d90f5ac" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/resume.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767777548013</updated>
-      <workItem from="1767777549291" duration="6828000" />
+      <workItem from="1767777549291" duration="6998000" />
     </task>
     <servers />
   </component>
