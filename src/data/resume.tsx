@@ -100,7 +100,7 @@ export const DATA = {
   projects: [
     {
       title: "Graduation invitation system",
-        href: "https://digitalgenc.az",
+        href: "",
       dates: "Mar 2025 - Jul 2025",
       active: true,
       description:
@@ -145,7 +145,7 @@ export const DATA = {
     },
     {
       title: "Rust Shell (rsh)",
-        href: "https://digitalgenc.az",
+        href: "",
       dates: "Dec 2025 - Present",
       active: true,
       description:
@@ -170,7 +170,7 @@ export const DATA = {
     },
     {
       title: "3D Library App",
-        href: "https://digitalgenc.az",
+        href: "",
       dates: "May 2025 - May 2025",
       active: true,
       description:
@@ -192,7 +192,7 @@ export const DATA = {
     },
       {
           title: "Management System for the Department of Humanitarian Affairs and Youth Policy\n",
-          href: "https://digitalgenc.az",
+          href: "",
           dates: "Sep 2025 - Dec 2025",
           active: true,
           description:
@@ -210,7 +210,7 @@ export const DATA = {
       },
       {
           title: "Codemy",
-          href: "https://digitalgenc.az",
+          href: "",
           dates: "Jan 2025 - Apr 2025",
           active: true,
           description:
